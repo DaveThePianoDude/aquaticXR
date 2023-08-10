@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: c823920e295bf374091b02bea9ca2ba8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bottom_Feather_01
+    100004: Bottom_Feather_02
+    100006: Bottom_Feather_03
+    100008: Bottom_Feather_04
+    100010: Bottom_Feather_05
+    100012: Bottom_Feather_06
+    100014: Chest_fin_L.001
+    100016: Chest_fin_L.002
+    100018: Chest_fin_L.003
+    100020: Chest_fin_R.001
+    100022: Chest_fin_R.002
+    100024: Chest_fin_R.003
+    100026: CTR_SF_L
+    100028: CTR_SF_L.001
+    100030: CTR_SF_L.002
+    100032: CTR_SF_R
+    100034: CTR_SF_R.001
+    100036: CTR_SF_R.002
+    100038: CTRL_BF_01
+    100040: CTRL_BF_02
+    100042: CTRL_BF_03
+    100044: CTRL_CF_L
+    100046: CTRL_CF_R
+    100048: CTRL_HEAD
+    100050: CTRL_T_01
+    100052: CTRL_T_02
+    100054: CTRL_T_03
+    100056: CTRL_TF_01
+    100058: CTRL_TF_02
+    100060: CTRL_TF_03
+    100062: CTRL_TF_04
+    100064: CTRL_TF_05
+    100066: Cube_helper
+    100068: HEAD
+    100070: Pseudotropheus demasoni
+    100072: //RootNode
+    100074: ROOT
+    100076: Side_fin_L.001
+    100078: Side_fin_L.002
+    100080: Side_fin_L.003
+    100082: Side_fin_R.001
+    100084: Side_fin_R.002
+    100086: Side_fin_R.003
+    100088: Sphere_helper
+    100090: SPINE_01
+    100092: SPINE_02
+    100094: SPINE_03
+    100096: SPINE_04
+    100098: SPINE_05
+    100100: Sun
+    100102: TAIL_01
+    100104: TAIL_02
+    100106: TAIL_03
+    100108: TAIL_04
+    100110: TAIL_05
+    100112: TAIL_06
+    100114: TAIL_07
+    100116: TAIL_08
+    100118: TAIL_09
+    100120: Top_fin.001
+    100122: Top_fin.002
+    100124: Top_fin.003
+    100126: Top_fin.0031
+    100128: Top_fin.004
+    100130: Top_fin.005
+    100132: Top_fin.006
+    100134: Top_fin.007
+    100136: Top_fin.008
+    400000: Armature
+    400002: Bottom_Feather_01
+    400004: Bottom_Feather_02
+    400006: Bottom_Feather_03
+    400008: Bottom_Feather_04
+    400010: Bottom_Feather_05
+    400012: Bottom_Feather_06
+    400014: Chest_fin_L.001
+    400016: Chest_fin_L.002
+    400018: Chest_fin_L.003
+    400020: Chest_fin_R.001
+    400022: Chest_fin_R.002
+    400024: Chest_fin_R.003
+    400026: CTR_SF_L
+    400028: CTR_SF_L.001
+    400030: CTR_SF_L.002
+    400032: CTR_SF_R
+    400034: CTR_SF_R.001
+    400036: CTR_SF_R.002
+    400038: CTRL_BF_01
+    400040: CTRL_BF_02
+    400042: CTRL_BF_03
+    400044: CTRL_CF_L
+    400046: CTRL_CF_R
+    400048: CTRL_HEAD
+    400050: CTRL_T_01
+    400052: CTRL_T_02
+    400054: CTRL_T_03
+    400056: CTRL_TF_01
+    400058: CTRL_TF_02
+    400060: CTRL_TF_03
+    400062: CTRL_TF_04
+    400064: CTRL_TF_05
+    400066: Cube_helper
+    400068: HEAD
+    400070: Pseudotropheus demasoni
+    400072: //RootNode
+    400074: ROOT
+    400076: Side_fin_L.001
+    400078: Side_fin_L.002
+    400080: Side_fin_L.003
+    400082: Side_fin_R.001
+    400084: Side_fin_R.002
+    400086: Side_fin_R.003
+    400088: Sphere_helper
+    400090: SPINE_01
+    400092: SPINE_02
+    400094: SPINE_03
+    400096: SPINE_04
+    400098: SPINE_05
+    400100: Sun
+    400102: TAIL_01
+    400104: TAIL_02
+    400106: TAIL_03
+    400108: TAIL_04
+    400110: TAIL_05
+    400112: TAIL_06
+    400114: TAIL_07
+    400116: TAIL_08
+    400118: TAIL_09
+    400120: Top_fin.001
+    400122: Top_fin.002
+    400124: Top_fin.003
+    400126: Top_fin.0031
+    400128: Top_fin.004
+    400130: Top_fin.005
+    400132: Top_fin.006
+    400134: Top_fin.007
+    400136: Top_fin.008
+    2100000: Pseudotropheus
+    2100002: No Name
+    2300000: Cube_helper
+    3300000: Cube_helper
+    4300000: Pseudotropheus demasoni
+    4300002: Cube_helper
+    7400000: SWIM_CYCLE
+    9500000: //RootNode
+    10800000: Sun
+    13700000: Pseudotropheus demasoni
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SWIM_CYCLE
+      takeName: SWIM_CYCLE
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

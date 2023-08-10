@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 93945a86e58ce954f93344061e5771fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: h c_v1_coral_01
+    100004: h c_v1_coral_02
+    100006: h c_v1_coral_03
+    100008: h c_v1_coral_04
+    100010: h c_v1_coral_05
+    100012: h c_v1_coral_06
+    100014: h c_v1_coral_07
+    100016: h c_v1_coral_08
+    100018: h c_v1_coral_09
+    100020: h c_v1_coral_10
+    100022: h c_v1_coral_11
+    100024: h c_v1_coral_12
+    100026: h c_v1_coral_13
+    100028: h c_v1_coral_14
+    100030: h c_v1_coral_15
+    100032: h c_v1_coral_16
+    100034: h c_v1_coral_17
+    100036: h c_v1_coral_18
+    100038: h c_v1_coral_19
+    100040: h c_v1_coral_20
+    100042: h c_v1_coral_21
+    100044: h c_v1_coral_22
+    100046: h c_v1_coral_23
+    100048: h c_v1_coral_24
+    100050: h c_v1_coral_25
+    100052: h c_v1_coral_26
+    100054: h c_v1_coral_27
+    100056: h c_v1_coral_28
+    100058: h c_v1_coral_29
+    100060: h c_v1_coral_30
+    100062: h c_v1_coral_31
+    100064: h c_v1_coral_32
+    100066: h c_v1_coral_33
+    100068: h c_v1_coral_34
+    100070: h c_v1_coral_35
+    100072: h c_v1_coral_36
+    100074: h c_v1_coral_37
+    100076: h c_v1_coral_38
+    100078: h c_v1_coral_39
+    100080: h c_v1_coral_40
+    100082: h c_v1_coral_41
+    100084: h c_v1_coral_42
+    100086: h c_v1_coral_43
+    100088: h c_v1_stone
+    400000: //RootNode
+    400002: h c_v1_coral_01
+    400004: h c_v1_coral_02
+    400006: h c_v1_coral_03
+    400008: h c_v1_coral_04
+    400010: h c_v1_coral_05
+    400012: h c_v1_coral_06
+    400014: h c_v1_coral_07
+    400016: h c_v1_coral_08
+    400018: h c_v1_coral_09
+    400020: h c_v1_coral_10
+    400022: h c_v1_coral_11
+    400024: h c_v1_coral_12
+    400026: h c_v1_coral_13
+    400028: h c_v1_coral_14
+    400030: h c_v1_coral_15
+    400032: h c_v1_coral_16
+    400034: h c_v1_coral_17
+    400036: h c_v1_coral_18
+    400038: h c_v1_coral_19
+    400040: h c_v1_coral_20
+    400042: h c_v1_coral_21
+    400044: h c_v1_coral_22
+    400046: h c_v1_coral_23
+    400048: h c_v1_coral_24
+    400050: h c_v1_coral_25
+    400052: h c_v1_coral_26
+    400054: h c_v1_coral_27
+    400056: h c_v1_coral_28
+    400058: h c_v1_coral_29
+    400060: h c_v1_coral_30
+    400062: h c_v1_coral_31
+    400064: h c_v1_coral_32
+    400066: h c_v1_coral_33
+    400068: h c_v1_coral_34
+    400070: h c_v1_coral_35
+    400072: h c_v1_coral_36
+    400074: h c_v1_coral_37
+    400076: h c_v1_coral_38
+    400078: h c_v1_coral_39
+    400080: h c_v1_coral_40
+    400082: h c_v1_coral_41
+    400084: h c_v1_coral_42
+    400086: h c_v1_coral_43
+    400088: h c_v1_stone
+    2100000: h c_v1_stone_st mtl
+    2100002: h c_v1_corals_st mtl
+    2300000: h c_v1_coral_01
+    2300002: h c_v1_coral_02
+    2300004: h c_v1_coral_03
+    2300006: h c_v1_coral_04
+    2300008: h c_v1_coral_05
+    2300010: h c_v1_coral_06
+    2300012: h c_v1_coral_07
+    2300014: h c_v1_coral_08
+    2300016: h c_v1_coral_09
+    2300018: h c_v1_coral_10
+    2300020: h c_v1_coral_11
+    2300022: h c_v1_coral_12
+    2300024: h c_v1_coral_13
+    2300026: h c_v1_coral_14
+    2300028: h c_v1_coral_15
+    2300030: h c_v1_coral_16
+    2300032: h c_v1_coral_17
+    2300034: h c_v1_coral_18
+    2300036: h c_v1_coral_19
+    2300038: h c_v1_coral_20
+    2300040: h c_v1_coral_21
+    2300042: h c_v1_coral_22
+    2300044: h c_v1_coral_23
+    2300046: h c_v1_coral_24
+    2300048: h c_v1_coral_25
+    2300050: h c_v1_coral_26
+    2300052: h c_v1_coral_27
+    2300054: h c_v1_coral_28
+    2300056: h c_v1_coral_29
+    2300058: h c_v1_coral_30
+    2300060: h c_v1_coral_31
+    2300062: h c_v1_coral_32
+    2300064: h c_v1_coral_33
+    2300066: h c_v1_coral_34
+    2300068: h c_v1_coral_35
+    2300070: h c_v1_coral_36
+    2300072: h c_v1_coral_37
+    2300074: h c_v1_coral_38
+    2300076: h c_v1_coral_39
+    2300078: h c_v1_coral_40
+    2300080: h c_v1_coral_41
+    2300082: h c_v1_coral_42
+    2300084: h c_v1_coral_43
+    2300086: h c_v1_stone
+    3300000: h c_v1_coral_01
+    3300002: h c_v1_coral_02
+    3300004: h c_v1_coral_03
+    3300006: h c_v1_coral_04
+    3300008: h c_v1_coral_05
+    3300010: h c_v1_coral_06
+    3300012: h c_v1_coral_07
+    3300014: h c_v1_coral_08
+    3300016: h c_v1_coral_09
+    3300018: h c_v1_coral_10
+    3300020: h c_v1_coral_11
+    3300022: h c_v1_coral_12
+    3300024: h c_v1_coral_13
+    3300026: h c_v1_coral_14
+    3300028: h c_v1_coral_15
+    3300030: h c_v1_coral_16
+    3300032: h c_v1_coral_17
+    3300034: h c_v1_coral_18
+    3300036: h c_v1_coral_19
+    3300038: h c_v1_coral_20
+    3300040: h c_v1_coral_21
+    3300042: h c_v1_coral_22
+    3300044: h c_v1_coral_23
+    3300046: h c_v1_coral_24
+    3300048: h c_v1_coral_25
+    3300050: h c_v1_coral_26
+    3300052: h c_v1_coral_27
+    3300054: h c_v1_coral_28
+    3300056: h c_v1_coral_29
+    3300058: h c_v1_coral_30
+    3300060: h c_v1_coral_31
+    3300062: h c_v1_coral_32
+    3300064: h c_v1_coral_33
+    3300066: h c_v1_coral_34
+    3300068: h c_v1_coral_35
+    3300070: h c_v1_coral_36
+    3300072: h c_v1_coral_37
+    3300074: h c_v1_coral_38
+    3300076: h c_v1_coral_39
+    3300078: h c_v1_coral_40
+    3300080: h c_v1_coral_41
+    3300082: h c_v1_coral_42
+    3300084: h c_v1_coral_43
+    3300086: h c_v1_stone
+    4300000: h c_v1_stone
+    4300002: h c_v1_coral_01
+    4300004: h c_v1_coral_02
+    4300006: h c_v1_coral_03
+    4300008: h c_v1_coral_04
+    4300010: h c_v1_coral_05
+    4300012: h c_v1_coral_06
+    4300014: h c_v1_coral_07
+    4300016: h c_v1_coral_08
+    4300018: h c_v1_coral_09
+    4300020: h c_v1_coral_10
+    4300022: h c_v1_coral_11
+    4300024: h c_v1_coral_12
+    4300026: h c_v1_coral_13
+    4300028: h c_v1_coral_14
+    4300030: h c_v1_coral_15
+    4300032: h c_v1_coral_16
+    4300034: h c_v1_coral_17
+    4300036: h c_v1_coral_18
+    4300038: h c_v1_coral_19
+    4300040: h c_v1_coral_20
+    4300042: h c_v1_coral_21
+    4300044: h c_v1_coral_22
+    4300046: h c_v1_coral_23
+    4300048: h c_v1_coral_24
+    4300050: h c_v1_coral_25
+    4300052: h c_v1_coral_26
+    4300054: h c_v1_coral_27
+    4300056: h c_v1_coral_28
+    4300058: h c_v1_coral_29
+    4300060: h c_v1_coral_30
+    4300062: h c_v1_coral_31
+    4300064: h c_v1_coral_32
+    4300066: h c_v1_coral_33
+    4300068: h c_v1_coral_34
+    4300070: h c_v1_coral_35
+    4300072: h c_v1_coral_36
+    4300074: h c_v1_coral_37
+    4300076: h c_v1_coral_38
+    4300078: h c_v1_coral_39
+    4300080: h c_v1_coral_40
+    4300082: h c_v1_coral_41
+    4300084: h c_v1_coral_42
+    4300086: h c_v1_coral_43
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

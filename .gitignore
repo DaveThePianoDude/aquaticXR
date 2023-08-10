@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# PSD Source Files (file size too large for the repo)
+*.psd
+
+.fake

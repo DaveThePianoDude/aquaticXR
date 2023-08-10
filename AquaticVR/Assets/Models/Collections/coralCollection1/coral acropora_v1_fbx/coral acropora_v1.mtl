@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 20.02.2018 03:28:06
+
+newmtl c_a_v1_st_mtl
+	Ns 52.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.4320 0.4320 0.4320
+	Ke 0.0000 0.0000 0.0000
+	map_Ka coral acropora_v1_diffuse.jpg
+	map_Kd coral acropora_v1_diffuse.jpg
+	map_bump coral acropora_v1_bump.jpg
+	bump coral acropora_v1_bump.jpg

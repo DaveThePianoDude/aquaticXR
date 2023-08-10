@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 768b44eab9fb37f4fb8f4f96712a951a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: c a_v2_stone
+    100002: coral acropora_02_obj_01
+    100004: coral acropora_02_obj_02
+    100006: coral acropora_02_obj_03
+    100008: coral acropora_02_obj_04
+    100010: coral acropora_02_obj_05
+    100012: coral acropora_02_obj_06
+    100014: coral acropora_02_obj_07
+    100016: coral acropora_02_obj_08
+    100018: coral acropora_02_obj_09
+    100020: coral acropora_02_obj_10
+    100022: coral acropora_02_obj_11
+    100024: coral acropora_02_obj_12
+    100026: coral acropora_02_obj_13
+    100028: coral acropora_02_obj_14
+    100030: coral acropora_02_obj_15
+    100032: coral acropora_02_obj_16
+    100034: coral acropora_02_obj_17
+    100036: coral acropora_02_obj_18
+    100038: coral acropora_02_obj_19
+    100040: coral acropora_02_obj_20
+    100042: coral acropora_02_obj_21
+    100044: coral acropora_02_obj_22
+    100046: coral acropora_02_obj_23
+    100048: coral acropora_02_obj_24
+    100050: coral acropora_02_obj_25
+    100052: coral acropora_02_obj_26
+    100054: coral acropora_02_obj_27
+    100056: coral acropora_02_obj_28
+    100058: coral acropora_02_obj_29
+    100060: coral acropora_02_obj_30
+    100062: coral acropora_02_obj_31
+    100064: coral acropora_02_obj_32
+    100066: coral acropora_02_obj_33
+    100068: coral acropora_02_obj_34
+    100070: coral acropora_02_obj_35
+    100072: coral acropora_02_obj_36
+    100074: coral acropora_02_obj_37
+    100076: coral acropora_02_obj_38
+    100078: coral acropora_02_obj_39
+    100080: coral acropora_02_obj_40
+    100082: coral acropora_02_obj_41
+    100084: coral acropora_02_obj_42
+    100086: coral acropora_02_obj_43
+    100088: coral acropora_02_obj_44
+    100090: coral acropora_02_obj_45
+    100092: coral acropora_02_obj_46
+    100094: coral acropora_02_obj_47
+    100096: coral acropora_02_obj_48
+    100098: coral acropora_02_obj_49
+    100100: coral acropora_02_obj_50
+    100102: coral acropora_02_obj_51
+    100104: coral acropora_02_obj_52
+    100106: coral acropora_02_obj_53
+    100108: coral acropora_02_obj_54
+    100110: coral acropora_02_obj_55
+    100112: coral acropora_02_obj_56
+    100114: coral acropora_02_obj_57
+    100116: //RootNode
+    400000: c a_v2_stone
+    400002: coral acropora_02_obj_01
+    400004: coral acropora_02_obj_02
+    400006: coral acropora_02_obj_03
+    400008: coral acropora_02_obj_04
+    400010: coral acropora_02_obj_05
+    400012: coral acropora_02_obj_06
+    400014: coral acropora_02_obj_07
+    400016: coral acropora_02_obj_08
+    400018: coral acropora_02_obj_09
+    400020: coral acropora_02_obj_10
+    400022: coral acropora_02_obj_11
+    400024: coral acropora_02_obj_12
+    400026: coral acropora_02_obj_13
+    400028: coral acropora_02_obj_14
+    400030: coral acropora_02_obj_15
+    400032: coral acropora_02_obj_16
+    400034: coral acropora_02_obj_17
+    400036: coral acropora_02_obj_18
+    400038: coral acropora_02_obj_19
+    400040: coral acropora_02_obj_20
+    400042: coral acropora_02_obj_21
+    400044: coral acropora_02_obj_22
+    400046: coral acropora_02_obj_23
+    400048: coral acropora_02_obj_24
+    400050: coral acropora_02_obj_25
+    400052: coral acropora_02_obj_26
+    400054: coral acropora_02_obj_27
+    400056: coral acropora_02_obj_28
+    400058: coral acropora_02_obj_29
+    400060: coral acropora_02_obj_30
+    400062: coral acropora_02_obj_31
+    400064: coral acropora_02_obj_32
+    400066: coral acropora_02_obj_33
+    400068: coral acropora_02_obj_34
+    400070: coral acropora_02_obj_35
+    400072: coral acropora_02_obj_36
+    400074: coral acropora_02_obj_37
+    400076: coral acropora_02_obj_38
+    400078: coral acropora_02_obj_39
+    400080: coral acropora_02_obj_40
+    400082: coral acropora_02_obj_41
+    400084: coral acropora_02_obj_42
+    400086: coral acropora_02_obj_43
+    400088: coral acropora_02_obj_44
+    400090: coral acropora_02_obj_45
+    400092: coral acropora_02_obj_46
+    400094: coral acropora_02_obj_47
+    400096: coral acropora_02_obj_48
+    400098: coral acropora_02_obj_49
+    400100: coral acropora_02_obj_50
+    400102: coral acropora_02_obj_51
+    400104: coral acropora_02_obj_52
+    400106: coral acropora_02_obj_53
+    400108: coral acropora_02_obj_54
+    400110: coral acropora_02_obj_55
+    400112: coral acropora_02_obj_56
+    400114: coral acropora_02_obj_57
+    400116: //RootNode
+    2100000: c a_v2_stone_st mtl
+    2100002: c a_v2_coral_st mtl
+    2300000: c a_v2_stone
+    2300002: coral acropora_02_obj_01
+    2300004: coral acropora_02_obj_02
+    2300006: coral acropora_02_obj_03
+    2300008: coral acropora_02_obj_04
+    2300010: coral acropora_02_obj_05
+    2300012: coral acropora_02_obj_06
+    2300014: coral acropora_02_obj_07
+    2300016: coral acropora_02_obj_08
+    2300018: coral acropora_02_obj_09
+    2300020: coral acropora_02_obj_10
+    2300022: coral acropora_02_obj_11
+    2300024: coral acropora_02_obj_12
+    2300026: coral acropora_02_obj_13
+    2300028: coral acropora_02_obj_14
+    2300030: coral acropora_02_obj_15
+    2300032: coral acropora_02_obj_16
+    2300034: coral acropora_02_obj_17
+    2300036: coral acropora_02_obj_18
+    2300038: coral acropora_02_obj_19
+    2300040: coral acropora_02_obj_20
+    2300042: coral acropora_02_obj_21
+    2300044: coral acropora_02_obj_22
+    2300046: coral acropora_02_obj_23
+    2300048: coral acropora_02_obj_24
+    2300050: coral acropora_02_obj_25
+    2300052: coral acropora_02_obj_26
+    2300054: coral acropora_02_obj_27
+    2300056: coral acropora_02_obj_28
+    2300058: coral acropora_02_obj_29
+    2300060: coral acropora_02_obj_30
+    2300062: coral acropora_02_obj_31
+    2300064: coral acropora_02_obj_32
+    2300066: coral acropora_02_obj_33
+    2300068: coral acropora_02_obj_34
+    2300070: coral acropora_02_obj_35
+    2300072: coral acropora_02_obj_36
+    2300074: coral acropora_02_obj_37
+    2300076: coral acropora_02_obj_38
+    2300078: coral acropora_02_obj_39
+    2300080: coral acropora_02_obj_40
+    2300082: coral acropora_02_obj_41
+    2300084: coral acropora_02_obj_42
+    2300086: coral acropora_02_obj_43
+    2300088: coral acropora_02_obj_44
+    2300090: coral acropora_02_obj_45
+    2300092: coral acropora_02_obj_46
+    2300094: coral acropora_02_obj_47
+    2300096: coral acropora_02_obj_48
+    2300098: coral acropora_02_obj_49
+    2300100: coral acropora_02_obj_50
+    2300102: coral acropora_02_obj_51
+    2300104: coral acropora_02_obj_52
+    2300106: coral acropora_02_obj_53
+    2300108: coral acropora_02_obj_54
+    2300110: coral acropora_02_obj_55
+    2300112: coral acropora_02_obj_56
+    2300114: coral acropora_02_obj_57
+    3300000: c a_v2_stone
+    3300002: coral acropora_02_obj_01
+    3300004: coral acropora_02_obj_02
+    3300006: coral acropora_02_obj_03
+    3300008: coral acropora_02_obj_04
+    3300010: coral acropora_02_obj_05
+    3300012: coral acropora_02_obj_06
+    3300014: coral acropora_02_obj_07
+    3300016: coral acropora_02_obj_08
+    3300018: coral acropora_02_obj_09
+    3300020: coral acropora_02_obj_10
+    3300022: coral acropora_02_obj_11
+    3300024: coral acropora_02_obj_12
+    3300026: coral acropora_02_obj_13
+    3300028: coral acropora_02_obj_14
+    3300030: coral acropora_02_obj_15
+    3300032: coral acropora_02_obj_16
+    3300034: coral acropora_02_obj_17
+    3300036: coral acropora_02_obj_18
+    3300038: coral acropora_02_obj_19
+    3300040: coral acropora_02_obj_20
+    3300042: coral acropora_02_obj_21
+    3300044: coral acropora_02_obj_22
+    3300046: coral acropora_02_obj_23
+    3300048: coral acropora_02_obj_24
+    3300050: coral acropora_02_obj_25
+    3300052: coral acropora_02_obj_26
+    3300054: coral acropora_02_obj_27
+    3300056: coral acropora_02_obj_28
+    3300058: coral acropora_02_obj_29
+    3300060: coral acropora_02_obj_30
+    3300062: coral acropora_02_obj_31
+    3300064: coral acropora_02_obj_32
+    3300066: coral acropora_02_obj_33
+    3300068: coral acropora_02_obj_34
+    3300070: coral acropora_02_obj_35
+    3300072: coral acropora_02_obj_36
+    3300074: coral acropora_02_obj_37
+    3300076: coral acropora_02_obj_38
+    3300078: coral acropora_02_obj_39
+    3300080: coral acropora_02_obj_40
+    3300082: coral acropora_02_obj_41
+    3300084: coral acropora_02_obj_42
+    3300086: coral acropora_02_obj_43
+    3300088: coral acropora_02_obj_44
+    3300090: coral acropora_02_obj_45
+    3300092: coral acropora_02_obj_46
+    3300094: coral acropora_02_obj_47
+    3300096: coral acropora_02_obj_48
+    3300098: coral acropora_02_obj_49
+    3300100: coral acropora_02_obj_50
+    3300102: coral acropora_02_obj_51
+    3300104: coral acropora_02_obj_52
+    3300106: coral acropora_02_obj_53
+    3300108: coral acropora_02_obj_54
+    3300110: coral acropora_02_obj_55
+    3300112: coral acropora_02_obj_56
+    3300114: coral acropora_02_obj_57
+    4300000: c a_v2_stone
+    4300002: coral acropora_02_obj_01
+    4300004: coral acropora_02_obj_02
+    4300006: coral acropora_02_obj_03
+    4300008: coral acropora_02_obj_04
+    4300010: coral acropora_02_obj_05
+    4300012: coral acropora_02_obj_06
+    4300014: coral acropora_02_obj_07
+    4300016: coral acropora_02_obj_08
+    4300018: coral acropora_02_obj_09
+    4300020: coral acropora_02_obj_10
+    4300022: coral acropora_02_obj_11
+    4300024: coral acropora_02_obj_12
+    4300026: coral acropora_02_obj_13
+    4300028: coral acropora_02_obj_14
+    4300030: coral acropora_02_obj_15
+    4300032: coral acropora_02_obj_16
+    4300034: coral acropora_02_obj_17
+    4300036: coral acropora_02_obj_18
+    4300038: coral acropora_02_obj_19
+    4300040: coral acropora_02_obj_20
+    4300042: coral acropora_02_obj_21
+    4300044: coral acropora_02_obj_22
+    4300046: coral acropora_02_obj_23
+    4300048: coral acropora_02_obj_24
+    4300050: coral acropora_02_obj_25
+    4300052: coral acropora_02_obj_26
+    4300054: coral acropora_02_obj_27
+    4300056: coral acropora_02_obj_28
+    4300058: coral acropora_02_obj_29
+    4300060: coral acropora_02_obj_30
+    4300062: coral acropora_02_obj_31
+    4300064: coral acropora_02_obj_32
+    4300066: coral acropora_02_obj_33
+    4300068: coral acropora_02_obj_34
+    4300070: coral acropora_02_obj_35
+    4300072: coral acropora_02_obj_36
+    4300074: coral acropora_02_obj_37
+    4300076: coral acropora_02_obj_38
+    4300078: coral acropora_02_obj_39
+    4300080: coral acropora_02_obj_40
+    4300082: coral acropora_02_obj_41
+    4300084: coral acropora_02_obj_42
+    4300086: coral acropora_02_obj_43
+    4300088: coral acropora_02_obj_44
+    4300090: coral acropora_02_obj_45
+    4300092: coral acropora_02_obj_46
+    4300094: coral acropora_02_obj_47
+    4300096: coral acropora_02_obj_48
+    4300098: coral acropora_02_obj_49
+    4300100: coral acropora_02_obj_50
+    4300102: coral acropora_02_obj_51
+    4300104: coral acropora_02_obj_52
+    4300106: coral acropora_02_obj_53
+    4300108: coral acropora_02_obj_54
+    4300110: coral acropora_02_obj_55
+    4300112: coral acropora_02_obj_56
+    4300114: coral acropora_02_obj_57
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

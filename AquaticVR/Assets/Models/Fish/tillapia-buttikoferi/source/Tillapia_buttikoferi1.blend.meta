@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 948cb55f7617cfa47b1cf246123e4cff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bottom_Feather_01
+    100004: Bottom_Feather_02
+    100006: Bottom_Feather_03
+    100008: Bottom_Feather_04
+    100010: Bottom_Feather_05
+    100012: Bottom_Feather_06
+    100014: Chest_Feather_L_01
+    100016: Chest_Feather_L_02
+    100018: Chest_Feather_L_03
+    100020: Chest_Feather_R_01
+    100022: Chest_Feather_R_02
+    100024: Chest_Feather_R_03
+    100026: Cube
+    100028: Empty_SPHERE
+    100030: Front_Feather_L_01
+    100032: Front_Feather_L_02
+    100034: Front_Feather_L_03
+    100036: Front_Feather_R_01
+    100038: Front_Feather_R_02
+    100040: Front_Feather_R_03
+    100042: HEAD
+    100044: ROOT
+    100046: SPINE_01
+    100048: SPINE_02
+    100050: SPINE_03
+    100052: SPINE_04
+    100054: SPINE_05
+    100056: Spine_Feather_0
+    100058: Spine_Feather_01
+    100060: Spine_Feather_03
+    100062: Spine_Feather_04
+    100064: Spine_Feather_05
+    100066: Spine_Feather_06
+    100068: Spine_Feather_07
+    100070: Spine_Feather_08
+    100072: TAIL_01
+    100074: TAIL_02
+    100076: TAIL_03
+    100078: TAIL_04
+    100080: TAIL_05
+    100082: TAIL_06
+    100084: TAIL_07
+    100086: TAIL_08
+    100088: TAIL_09
+    100090: TILAPIA
+    100092: //RootNode
+    400000: Armature
+    400002: Bottom_Feather_01
+    400004: Bottom_Feather_02
+    400006: Bottom_Feather_03
+    400008: Bottom_Feather_04
+    400010: Bottom_Feather_05
+    400012: Bottom_Feather_06
+    400014: Chest_Feather_L_01
+    400016: Chest_Feather_L_02
+    400018: Chest_Feather_L_03
+    400020: Chest_Feather_R_01
+    400022: Chest_Feather_R_02
+    400024: Chest_Feather_R_03
+    400026: Cube
+    400028: Empty_SPHERE
+    400030: Front_Feather_L_01
+    400032: Front_Feather_L_02
+    400034: Front_Feather_L_03
+    400036: Front_Feather_R_01
+    400038: Front_Feather_R_02
+    400040: Front_Feather_R_03
+    400042: HEAD
+    400044: ROOT
+    400046: SPINE_01
+    400048: SPINE_02
+    400050: SPINE_03
+    400052: SPINE_04
+    400054: SPINE_05
+    400056: Spine_Feather_0
+    400058: Spine_Feather_01
+    400060: Spine_Feather_03
+    400062: Spine_Feather_04
+    400064: Spine_Feather_05
+    400066: Spine_Feather_06
+    400068: Spine_Feather_07
+    400070: Spine_Feather_08
+    400072: TAIL_01
+    400074: TAIL_02
+    400076: TAIL_03
+    400078: TAIL_04
+    400080: TAIL_05
+    400082: TAIL_06
+    400084: TAIL_07
+    400086: TAIL_08
+    400088: TAIL_09
+    400090: TILAPIA
+    400092: //RootNode
+    2100000: unnamed
+    2100002: UV__Untitled
+    2300000: Cube
+    3300000: Cube
+    4300000: Cube
+    4300002: TILAPIA
+    7400000: Default Take
+    7400002: SWIM_CYCLE
+    9500000: //RootNode
+    13700000: TILAPIA
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
